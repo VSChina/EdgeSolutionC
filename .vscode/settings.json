@@ -1,0 +1,9 @@
+{
+    "azure-iot-edge.executor.env": {
+        "DOCKER_HOST": "tcp://10.172.15.95:2375"
+    },
+    "azure-iot-edge.defaultPlatform": {
+        "platform": "arm32v7",
+        "alias": null
+    }
+}
